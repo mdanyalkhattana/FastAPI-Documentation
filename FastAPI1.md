@@ -85,6 +85,24 @@ FastAPI includes built-in tools for:
 
 ---
 
+#Table of Contents here we will Discuss.
+1. Introduction
+2. Setup
+3. Path Operations
+4. Pydantic
+5. Exception Handling
+6. SQLAlchemy + CRUD
+7. Dependency Injection
+8. Authentication & Authorization
+9. File Handling
+10. Async Programming
+11. Project Structure
+12. Testing
+13. Deployment
+14. Advanced Concepts
+
+
+
 # 🌟 **Why We Use FastAPI? (Very Important)**
 
 FastAPI is used widely in big companies because:
