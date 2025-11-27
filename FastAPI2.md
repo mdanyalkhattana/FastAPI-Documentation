@@ -1,5 +1,5 @@
  
-# **FastAPI Notes — 
+# FastAPI Notes — 
 
 ---
 
